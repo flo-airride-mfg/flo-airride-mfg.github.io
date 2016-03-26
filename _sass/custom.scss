@@ -1,11 +1,16 @@
-ul.nav-links li a {
-  color: red;
+.site-header {
+  background-color: white;
+  border: none;
 }
 
-.navbar-right {
-padding-right: 15px;
+.header-links li a {
+  color: black;
 }
 
+.header-links li a:hover {
+  color: white;
+  background-color: black;
+}
 
 body {
     margin-top: 50px;
