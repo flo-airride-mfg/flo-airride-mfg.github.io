@@ -5815,6 +5815,11 @@ button.close {
   src: url("/Fonts/bonvenocf-light-webfont.eot?#iefix") format("embedded-opentype"), url("/Fonts/bonvenocf-light-webfont.woff2") format("woff2"), url("/Fonts/bonvenocf-light-webfont.woff") format("woff"), url("/Fonts/bonvenocf-light-webfont.ttf") format("truetype"), url("/Fonts/bonvenocf-light-webfont.svg#bonvenocflight") format("svg");
   font-weight: normal;
   font-style: normal; }
+.message {
+  font-weight: bold;
+  text-transform: capitalize;
+  padding: 150px 0; }
+
 .button {
   font-family: "bonvenocflight";
   font-size: 20px;
