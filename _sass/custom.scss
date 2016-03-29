@@ -10,6 +10,21 @@
     font-style: normal;
 }
 
+.black-line {
+  height: 1px;
+  background-color: black;
+  margin: 25px -20px;
+}
+
+.black-line-top {
+  height: 1px;
+  background-color: black;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  margin-left: -30px;
+  margin-right: -30px;
+}
+
 .message {
   font-family: "bonvenocflight";
   font-weight: bold;
@@ -34,11 +49,13 @@
 }
 
 .tagline {
-  font-size: 15px;
+  color: white !important;
+  font-size: 17px;
+  padding: 5px 15px;
 }
 .copyright {
   font-family: "bonvenocflight";
-  color: black;
+  color: white;
   font-size: 10px;
 }
 
@@ -73,11 +90,6 @@ body {
 }
 body {
   font-family: 'bonvenocflight';
-}
-hr {
-  border-color: black;
-  border-width: 2px;
-  max-width: 50px;
 }
 
 h1,
@@ -137,7 +149,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('/img/FLObg.jpg');
+  background-image: url('/img/FLObanner.jpg');
   text-align: center;
   color: black;
 }
