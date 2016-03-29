@@ -5816,6 +5816,7 @@ button.close {
   font-weight: normal;
   font-style: normal; }
 .message {
+  font-family: "bonvenocflight";
   font-weight: bold;
   text-transform: capitalize;
   padding: 150px 0; }
