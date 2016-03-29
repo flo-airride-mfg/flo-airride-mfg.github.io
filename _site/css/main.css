@@ -5815,19 +5815,6 @@ button.close {
   src: url("/Fonts/bonvenocf-light-webfont.eot?#iefix") format("embedded-opentype"), url("/Fonts/bonvenocf-light-webfont.woff2") format("woff2"), url("/Fonts/bonvenocf-light-webfont.woff") format("woff"), url("/Fonts/bonvenocf-light-webfont.ttf") format("truetype"), url("/Fonts/bonvenocf-light-webfont.svg#bonvenocflight") format("svg");
   font-weight: normal;
   font-style: normal; }
-.black-line {
-  height: 1px;
-  background-color: black;
-  margin: 25px -20px; }
-
-.black-line-top {
-  height: 1px;
-  background-color: black;
-  margin-top: 0px;
-  margin-bottom: 25px;
-  margin-left: -30px;
-  margin-right: -30px; }
-
 .message {
   font-family: "bonvenocflight";
   font-weight: bold;
@@ -5933,12 +5920,11 @@ h6 {
   color: black; }
 
 header {
-  position: relative;
-  width: 100%;
-  min-height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: contain;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
   -o-background-size: cover;
   background-position: center;
   background-image: url("/img/FLObanner.jpg");

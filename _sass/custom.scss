@@ -126,14 +126,13 @@ h6 {
   }
 
 header {
-  position: relative;
-  width: 100%;
-  min-height: auto;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-  background-position: center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background: contain;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-position:center;
   background-image: url('/img/FLObanner.jpg');
   text-align: center;
   color: black;
