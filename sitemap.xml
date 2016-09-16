@@ -7,7 +7,31 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://floairride.com/sitemap</loc>
-  <lastmod>2016-08-10T22:07:45+00:00</lastmod>
+  <loc>http://floairride.com/</loc>
+  <lastmod>2016-09-16T20:45:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://floairride.com/home.html</loc>
+  <lastmod>2016-09-16T20:45:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://floairride.com/tanks.html</loc>
+  <lastmod>2016-09-16T20:45:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://floairride.com/compressors.html</loc>
+  <lastmod>2016-09-16T20:45:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://floairride.com/merch.html</loc>
+  <lastmod>2016-09-16T20:45:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://floairride.com/about.html</loc>
+  <lastmod>2016-09-16T20:45:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://floairride.com/contact.html</loc>
+  <lastmod>2016-09-16T20:45:25+00:00</lastmod>
 </url>
 </urlset>
