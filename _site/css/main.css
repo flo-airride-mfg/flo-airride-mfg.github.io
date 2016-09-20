@@ -5888,7 +5888,7 @@ hr {
   font-size: 3em;
   margin-top: -3px; }
 
-.contact h2 {
+.contact h3 {
   color: #333;
   font-family: 'exo_2regular'; }
 
@@ -5899,15 +5899,14 @@ hr {
 
 .contact h5, p a, h5 a, ul li a {
   color: #333;
-  font-family: 'exo_2regular';
-  padding: 5px 0; }
+  font-family: 'exo_2regular'; }
 
 .contact p a:hover, h5 a:hover, ul li a:hover {
   color: #777;
   text-decoration: none; }
 
-.contact .AW-Form-1517026185 {
-  margin-left: -30px; }
+.contact .AW-Form-1909169273 {
+  margin-left: -140px; }
 
 .contact img {
   height: 270px;
