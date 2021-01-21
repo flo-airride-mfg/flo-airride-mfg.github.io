@@ -143,14 +143,13 @@ hr {
 }
 
 .bg-home {
-  background: #000;
+  background-image: url("/img/FLO-HOME-TEST.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
   position: fixed;
   width: 100%;
-  height: 100%;
-  top:0;
-  left:0;
-  z-index: -1;
-  -webkit-filter: blur(0px);
+  height: auto;  
 }
 
 .bg-tanks {
