@@ -143,14 +143,16 @@ hr {
 }
 
 .bg-home {
-  background: #000;
-  position: fixed;
-  width: 100%;
+  /* The image used */
+  background-image: url("/img/FLO-HOME-TEST.jpg");
+
+  /* Full height */
   height: 100%;
-  top:0;
-  left:0;
-  z-index: -1;
-  -webkit-filter: blur(0px);
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .bg-tanks {
@@ -379,12 +381,4 @@ body {
 .imgWrap:hover .imgDescription {
   visibility: visible;
   opacity: 1;
-}
-
-.home-banner {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 50%;
-  height: auto;  
 }
