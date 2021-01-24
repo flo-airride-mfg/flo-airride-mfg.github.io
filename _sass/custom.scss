@@ -274,11 +274,11 @@ hr {
 }
 
  .carousel-inner img {
-    text-align: center;
-    margin: auto;
-    display: block;
-    max-width: 1080px;
-    max-height: auto;  
+    text-align: center!important;
+    margin: auto !important;
+    display: block !important;
+    max-width: 1080px !important;
+    max-height: auto !important;  
   }
 
 .flex-video iframe {
