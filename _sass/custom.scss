@@ -273,6 +273,14 @@ hr {
   z-index: 2;
 }
 
+ .carousel-inner img {
+    text-align: center!important;
+    margin: auto !important;
+    display: block !important;
+    max-width: 1080px !important;
+    max-height: auto !important;  
+  }
+
 .flex-video iframe {
   height: 500px;
   width: 1000px;
